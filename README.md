@@ -1,7 +1,5 @@
 # Frontend Mentor - 3-column preview card component solution
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -11,16 +9,14 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
-Hi I am Yogeash , I am newbie learning web development by building projects . FYI : I am not a computer science student ... 
+Hi , I am Yogeash , I am newbie learning web development by building projects . FYI : I am not a computer science student ... 
+I have spent around 4 hours in building this project .
+This project helped me to figure out how basic website can be built using only css and html .
 
 
 ### The challenge
@@ -32,12 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop Type 
-
+**Desktop Type**
 
 <img src = "./images/Screenshot_desktop.png" alt = "Desktop-screenshot">
 
-Mobile Type
+**Mobile Type**
 
 <img src = "./images/Screenshot_mobile.png" alt = "Mobile-screenshot">
 
@@ -48,8 +43,12 @@ Mobile Type
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
-
-At the begining , i started with seperating contents using divs and classes in order to customize it . 
+<ul>
+<li>At the begining , i started with seperating contents using divs and added classes in order to customize it .</li>
+<li>Used various HTML tags for differnt purposes . </li>
+<li>Linked google fonts in order to get correct font from the API </li>
+- Used css for styling puporse.
+</ul>
 
 
 ### Built with
@@ -63,37 +62,25 @@ At the begining , i started with seperating contents using divs and classes in o
 
 ### What I learned
 
-For your information im a newbie learning about web-devolpmnet by building projects . 
+-Some new HTML tags
+-Functionality of HTML tags
+-CSS Flex Box
+-CSS Properties
 
-This was my first task that i have taken from frontend.io . 
 
-
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [W3School](https://www.w3schools.com/css/default.asp) - This helped me for CSS Refernce Purpose.
+- [Google Fonts](https://www.example.com) - Helped me to get different fonts
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Yogeash P](hwww.linkedin.com/in/yogeashp)
+- Frontend Mentor - [@Yogeash001](https://www.frontendmentor.io/profile/Yogeash001)
+- Twitter - [@PYogeash](https://twitter.com/PYogeash)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+Thank You for Visiting !!
 
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
