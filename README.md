@@ -35,11 +35,11 @@ Users should be able to:
 Desktop Type 
 
 
-<img src = "./images/screenshot_desktop.png" alt = "Desktop-screenshot">
+<img src = "./images/Screenshot_desktop.png" alt = "Desktop-screenshot">
 
 Mobile Type
 
-<img src = "./images/screenshot_mobile.png" alt = "Mobile-screenshot">
+<img src = "./images/Screenshot_mobile.png" alt = "Mobile-screenshot">
 
 
 ### Links
