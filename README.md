@@ -63,7 +63,7 @@ Users should be able to:
 
 -Some new HTML tags
 -Functionality of HTML tags
--CSS Flex Box
+-CSS grid
 -CSS Properties
 
 ### Useful resources
@@ -74,7 +74,6 @@ Users should be able to:
 ## Author
 
 - LinkedIn- [Yogeash P](hwww.linkedin.com/in/yogeashp)
-- Frontend Mentor - [@Yogeash001](https://www.frontendmentor.io/profile/Yogeash001)
 - Twitter - [@PYogeash](https://twitter.com/PYogeash)
 
 Thank You for Visiting !!

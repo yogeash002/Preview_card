@@ -133,12 +133,14 @@ p{
 }
 
 @media(min-width:375px){
-    .flex-container{
-        display: flex;
-        justify-content: center;
+
+    .grid-container{
+
+        display:grid;
+        grid-template-columns: auto auto auto;  
+        justify-content: center ;
         padding: 8px;
-        align-content: center;
-        
+        width: fit-content;
     }
 
     .Sedan{
