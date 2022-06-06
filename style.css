@@ -1,0 +1,160 @@
+h1{
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+}
+
+p{
+    font-family: 'Work Sans', sans-serif ;
+    color: white;
+}
+
+.Sedan{
+    
+    background-color: hsl(31, 77%, 52%);
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 50px;
+    padding: 30px;
+
+}
+
+.SUV{
+    background-color: #278c89;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 30px;
+}
+
+.LUX{
+
+    background-color:hsl(179, 100%, 13%);   
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    padding: 30px;
+}
+
+.sedan-content{
+    color: hsla(0, 0%, 100%, 0.75);
+    text-align: left;
+    font-size: 15px;
+    padding: 8px;
+    
+
+}
+.suv-content{
+    color: hsla(0, 0%, 100%, 0.75);
+    text-align: left;
+    font-size: 15px;
+    padding: 8px
+    
+}
+
+.luxry-content{
+    color:hsla(0, 0%, 100%, 0.75); 
+    text-align: left; 
+    font-size: 15px;
+    padding: 8px
+     
+}
+
+.sedan{
+    color:#e87e32;
+    margin: auto;
+    display: grid;  
+    padding: 10px;
+    border-radius: 20px;
+    border-width: 1px;
+    border-color: white;
+    width: 150px;
+    font-family: 'Work Sans', sans-serif;
+    margin-top: 60px;
+    
+    
+}
+.sedan:hover{
+    color: white;
+    background-color: #fcac73 ;
+    cursor: pointer;
+    border-width: 1px;
+    border-color: white;
+    width: 150px;
+    font-family: 'Work Sans', sans-serif;
+    margin-top: 60px;
+
+}
+
+.suv{
+    color:#278c89;
+    margin: auto;
+    display: grid; 
+    padding: 10px; 
+    border-radius: 20px;
+    border-width: 1px;  
+    border-color: white;
+    width: 150px;  
+    font-family: 'Work Sans', sans-serif;
+    margin-top: 60px;
+}
+
+.suv:hover{
+    color: white;
+    background-color: #53bdba;
+    cursor: pointer;
+    border-width: 1px;
+    border-color: white;
+    width: 150px;
+    font-family: 'Work Sans', sans-serif;
+    margin-top: 60px;
+}
+
+.lux{
+    color:#166c58e8;
+    margin: auto;
+    display: grid;
+    padding: 10px;  
+    border-radius: 20px;
+    border-width: 1px;
+    border-color: white;
+    width: 150px;
+    font-family: 'Work Sans', sans-serif;
+    margin-top: 60px;
+}
+
+.lux:hover{
+    color: white;
+    background-color: #166c58e8;
+    cursor: pointer;
+    border-width: 1px;
+    border-color: white;
+    width: 150px;
+    font-family: 'Work Sans', sans-serif;
+    margin-top: 60px;
+}
+
+@media(min-width:375px){
+    .flex-container{
+        display: flex;
+        justify-content: center;
+        padding: 8px;
+        align-content: center;
+        
+    }
+
+    .Sedan{
+        margin: 0px;
+        border-top-left-radius: 12px;
+        border-bottom-left-radius: 12px;
+        padding: 30px;
+    }
+    .SUV{
+        margin: 0px;
+        padding: 30px;
+    }
+    .LUX{
+        margin: 0px;
+        border-top-right-radius: 12px;
+        border-bottom-right-radius: 12px;
+        padding: 30px;
+    }
+}
