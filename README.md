@@ -48,6 +48,7 @@ Users should be able to:
 <li>Used various HTML tags for differnt purposes . </li>
 <li>Linked google fonts in order to get correct font from the API </li>
 - Used css for styling puporse.
+- For further information about styling please visit <a href="style-guide.md">
 </ul>
 
 
@@ -59,7 +60,6 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-
 ### What I learned
 
 -Some new HTML tags
@@ -67,17 +67,14 @@ Users should be able to:
 -CSS Flex Box
 -CSS Properties
 
-
-
 ### Useful resources
 
 - [W3School](https://www.w3schools.com/css/default.asp) - This helped me for CSS Refernce Purpose.
 - [Google Fonts](https://www.example.com) - Helped me to get different fonts
 
-
 ## Author
 
-- Website - [Yogeash P](hwww.linkedin.com/in/yogeashp)
+- LinkedIn- [Yogeash P](hwww.linkedin.com/in/yogeashp)
 - Frontend Mentor - [@Yogeash001](https://www.frontendmentor.io/profile/Yogeash001)
 - Twitter - [@PYogeash](https://twitter.com/PYogeash)
 
