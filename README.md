@@ -36,11 +36,10 @@ Users should be able to:
 
 <img src = "./images/Screenshot_mobile.png" alt = "Mobile-screenshot">
 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/preview-card-dmtzhOua6r](https://your-solution-url.com)
+- Live Site URL: [https://preview-card.pages.dev/](https://github.com/yogeash002/Preview_card.git)
 
 ## My process
 <ul>
