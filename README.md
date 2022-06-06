@@ -34,11 +34,12 @@ Users should be able to:
 
 Desktop Type 
 
-![Desktop Type ](.images/screenshot_desktop.png)
+
+<img src = "./images/screenshot_desktop.png" alt = "Desktop-screenshot">
 
 Mobile Type
 
-![Mobile Type](.images/screenshot_Mobile.png)
+<img src = "./images/screenshot_mobile.png" alt = "Mobile-screenshot">
 
 
 ### Links
@@ -47,6 +48,9 @@ Mobile Type
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+
+At the begining , i started with seperating contents using divs and classes in order to customize it . 
+
 
 ### Built with
 
