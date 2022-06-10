@@ -11,6 +11,10 @@ h1{
     
 }
 
+.attribution{
+    margin: 40px 0px 20px 0px ;
+}
+
 a{
     text-decoration: none;
 }
@@ -33,25 +37,12 @@ body{
     min-height: 100vh;
     display: flex;
     align-items: center;
+    margin: 50px 15px 30px 10px;
 
-}
-
-.flex-container
-{
-    max-width: 940px;
-    margin:0 auto;
-
-}
-.wrapper{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    margin: 2rem;
 }
 
 .Sedan{
     background-color: hsl(31, 77%, 52%);
-    border-top-left-radius: 10px;
-    border-bottom-left-radius:10px;
     padding: 40px;
 }
 .SUV{
@@ -60,8 +51,6 @@ body{
 }
 .LUX{
     background-color: hsl(179, 100%, 13%);
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
     padding: 40px;
 }
 
@@ -120,4 +109,36 @@ color: hsl(31, 77%, 52%);
 
 .lux:hover b {
     color:white;
+}
+
+@media (min-width:374px){
+
+    .flex-container
+    {
+        max-width: 940px;
+        margin:0 auto;
+    
+    }
+    .wrapper{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        margin: 2rem;
+    }
+    
+    .Sedan{
+        background-color: hsl(31, 77%, 52%);
+        border-top-left-radius: 10px;
+        border-bottom-left-radius:10px;
+        padding: 40px;
+    }
+    .SUV{
+        background-color: hsl(184, 100%, 22%);
+        padding: 40px;
+    }
+    .LUX{
+        background-color: hsl(179, 100%, 13%);
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        padding: 40px;
+    }
 }
