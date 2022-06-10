@@ -11,6 +11,11 @@ h1{
     
 }
 
+a{
+    text-decoration: none;
+}
+
+
 .content{
 
     color: white ;
@@ -61,21 +66,58 @@ body{
 }
 
 button{
-    width: 100px;
+    width: 120px;
     cursor: pointer;
     border-radius: 20px;
     padding: 10px;
     margin-top: 50px;
+    font-family: "Lexend Deca",sans-serif;
+    font-size: 12px;
+    font-weight: 700;
 }
-/*button{
-    margin: 60px;
-    padding:10px;
-    width: 100px;
-    border-radius: 20px;
-    cursor:pointer;
-}
-*/
 
-a{
-    text-decoration: none;
+.sedan b{
+
+color: hsl(31, 77%, 52%);
+
+}
+
+.sedan:hover  {
+
+    background-color:hsl(31, 77%, 52%);
+ 
+}
+
+.sedan:hover b {
+    color:white;
+}
+
+.suv b{
+
+    color:  hsl(184, 100%, 22%);
+}
+
+.suv:hover  {
+
+    background-color:hsl(184, 100%, 22%);
+ 
+}
+
+.suv:hover b {
+    color:white;
+}
+
+.lux b{
+
+    color:  hsl(179, 100%, 13%);
+}
+
+.lux:hover  {
+
+    background-color:hsl(179, 100%, 13%);
+ 
+}
+
+.lux:hover b {
+    color:white;
 }
