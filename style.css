@@ -37,13 +37,15 @@ body{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    margin: 50px 15px 30px 10px;
+    margin: 50px 12px 30px 10px;
 
 }
 
 .Sedan{
     background-color: hsl(31, 77%, 52%);
     padding: 40px;
+    
+
 }
 .SUV{
     background-color: hsl(184, 100%, 22%);
